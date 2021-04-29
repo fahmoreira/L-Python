@@ -1,2 +1,2 @@
 # L-Python
-I am learning python to using the Curso em Vídeo's class.
+I am learning python and this repository is from the Curso em Vídeo's class.
